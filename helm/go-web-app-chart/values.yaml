@@ -7,7 +7,7 @@ image:
   repository: visala123/go-web-app-ci
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "15015190831"
+  tag: "15015446983"
 
 ingress:
   enabled: false
