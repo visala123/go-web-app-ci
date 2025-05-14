@@ -16,7 +16,7 @@ ingress:
     # kubernetes.io/ingress.class: nginx
     # kubernetes.io/tls-acme: "true"
   hosts:
-    - host: go-web-app.local
+    - host: go-web-app
       paths:
         - path: /
           pathType: ImplementationSpecific
